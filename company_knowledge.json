@@ -1,0 +1,47 @@
+
+{
+  "company_name": "MUST Company",
+  "website": "https://must.company/",
+  "careers_page": "https://must.company/careers",
+  "industry": "IT Services and Consulting",
+  "services": [
+    "Generative AI",
+    "AI Automation",
+    "Cloud Engineering",
+    "Custom Software Development",
+    "Web and Mobile Development",
+    "Data Engineering and Analytics"
+  ],
+  "office_information": {
+    "lahore_global_delivery_hub": "1st Floor, 61T, Link MM Alam Road, Gulberg II, Lahore, Pakistan"
+  },
+  "products": [
+    "MUST Mate",
+    "MustBreak"
+  ],
+  "recruitment_guidance": {
+    "job_openings": "Check the official careers page for current vacancies.",
+    "eligibility": "Requirements depend on the individual vacancy.",
+    "work_arrangements": "Remote or on-site arrangements depend on the individual vacancy.",
+    "salary": "Salary information must be confirmed with recruitment.",
+    "interview_schedule": "Individual interview schedules must be confirmed by recruitment.",
+    "application_status": "Individual application status is not available to this assistant.",
+    "benefits": "Benefits must be confirmed with recruitment."
+  },
+  "unknown_information": [
+    "Exact salary ranges",
+    "Individual interview dates",
+    "Individual application statuses",
+    "Specific working hours",
+    "Relocation assistance",
+    "Individual vacancy requirements"
+  ],
+  "response_rules": [
+    "Never invent company information.",
+    "Escalate candidate-specific questions to HR.",
+    "Never claim that HR has taken action.",
+    "Never claim that a CV or application has been updated.",
+    "All generated replies require human approval.",
+    "Never send emails automatically."
+  ]
+}
